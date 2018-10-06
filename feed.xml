@@ -2,10 +2,10 @@
     <channel>
         <title>Yousr-GitBlog</title>
         <description>GitBlog是一个简单易用的Markdown博客系统</description>
-        <link>file:///C:/xampp/htdocs/gitblog-master/_site/</link>
-        <atom:link href="file:///C:/xampp/htdocs/gitblog-master/_site//feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2018-10-07 01:10:40</pubDate>
-        <lastBuildDate>2018-10-07 01:10:40</lastBuildDate>
+        <link>https://rmfitcocoy.github.io/scarfonictechblog.io/</link>
+        <atom:link href="https://rmfitcocoy.github.io/scarfonictechblog.io//feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>2018-10-07 01:10:15</pubDate>
+        <lastBuildDate>2018-10-07 01:10:15</lastBuildDate>
         <generator>Gitblog v1.0</generator>
                 <item>
             <title>欢迎使用GitBlog</title>
@@ -83,8 +83,8 @@ summary: GitBlog是一个简单易用的Markdown博客系统，它不需要数�
 &lt;p&gt;QQ群：&lt;code&gt;84692078&lt;/code&gt;&lt;br /&gt;
 作者邮箱：&lt;code&gt;164068300[AT]qq.com&lt;/code&gt;    &lt;/p&gt;            </description>
             <pubDate>2018-09-16 16:35:45</pubDate>
-            <link>file:///C:/xampp/htdocs/gitblog-master/_site//blog/welcome.html</link>
-            <guid isPermaLink="true">file:///C:/xampp/htdocs/gitblog-master/_site//blog/welcome.html</guid>
+            <link>https://rmfitcocoy.github.io/scarfonictechblog.io//blog/welcome.html</link>
+            <guid isPermaLink="true">https://rmfitcocoy.github.io/scarfonictechblog.io//blog/welcome.html</guid>
                                                <category>GitBlog</category>
                                     </item>
             </channel>
